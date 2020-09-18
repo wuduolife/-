@@ -1,2 +1,2 @@
 # Teaching-design
-[image](https://github.com/wuduolife/Teaching-design/blob/master/11.gif)
+![手拉手模型](https://github.com/wuduolife/Teaching-design/blob/master/11.gif)
